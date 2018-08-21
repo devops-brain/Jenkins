@@ -282,9 +282,9 @@ def main():
     args = parse_arguments()
     # Setting logger's verbosity now.  Creating log file if needed.
     if args.verbose:
-        logging.basicConfig(filename="/Users/brian_khoyi/Documents/loadplexdata.log", level=logging.DEBUG)
+        logging.basicConfig(filename="loadplexdata.log", level=logging.DEBUG)
     else:
-        logging.basicConfig(filename="/Users/brian_khoyi/Documents/loadplexdata.log", level=logging.INFO)
+        logging.basicConfig(filename="loadplexdata.log", level=logging.INFO)
     logging.debug('Running with Python version {}.{}.{} {} {}'.format(sys.version_info.major, sys.version_info.minor,
                                                                       sys.version_info.micro,
                                                                       sys.version_info.releaselevel,
