@@ -10,7 +10,7 @@ USER root
 RUN \
   apt update && \
   apt -y install python3 python3-pip && \
-  pip3 --yes install pyyaml
+  pip3 install --yes pyyaml
 
 # Mountable Directories
 VOLUME ["/var/jenkins_home", "/srv/masters", "/srv/plex"]
