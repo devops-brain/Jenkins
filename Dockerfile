@@ -16,9 +16,9 @@ RUN \
 VOLUME ["/var/jenkins_home", "/srv/masters", "/srv/plex"]
 
 # Copy script into place
-COPY loadplexdata.py /usr/local/bin/loadplexdata.py
-COPY convertMovies.yml /etc/loadplexdata/convertMovies.yml
-COPY convertTV.yml /etc/loadplexdata/convertTV.yml
+COPY plex_tools/loadplexdata.py /usr/local/bin/loadplexdata.py
+COPY plex_tools/convertMovies.yml /etc/loadplexdata/convertMovies.yml
+COPY plex_tools/convertTV.yml /etc/loadplexdata/convertTV.yml
 
 # drop back to the regular jenkins user - good practice
 USER jenkins
