@@ -53,9 +53,57 @@ TV:
   Luke Cage:
     "01":
       "01":
-        title: "TODO"
-        source_dir: "TODO"
-        source_name: "title00.mkv"
+        title: "Moment of Truth"
+        source_dir: "Luke_Cage_Season_1_Disc_1"
+        source_name: "Luke_Cage_Season_1_Disc_1_t03.mkv"
+      "02":
+        title: "Code of the Streets"
+        source_dir: "Luke_Cage_Season_1_Disc_1"
+        source_name: "Luke_Cage_Season_1_Disc_1_t02.mkv"
+      "03":
+        title: "Who-s Gonna Take the Weight-"
+        source_dir: "Luke_Cage_Season_1_Disc_1"
+        source_name: "Luke_Cage_Season_1_Disc_1_t01.mkv"
+      "04":
+        title: "Step in the Arena"
+        source_dir: "Luke_Cage_Season_1_Disc_2"
+        source_name: "Luke_Cage_Season_1_Disc_2_t04.mkv"
+      "05":
+        title: "Just to Get a Rep"
+        source_dir: "Luke_Cage_Season_1_Disc_2"
+        source_name: "Luke_Cage_Season_1_Disc_2_t03.mkv"
+      "06":
+        title: "Suckas Need Bodyguards"
+        source_dir: "Luke_Cage_Season_1_Disc_2"
+        source_name: "Luke_Cage_Season_1_Disc_2_t02.mkv"
+      "07":
+        title: "Manifest"
+        source_dir: "Luke_Cage_Season_1_Disc_2"
+        source_name: "Luke_Cage_Season_1_Disc_2_t01.mkv"
+      "08":
+        title: "Blowin- Up the Spot"
+        source_dir: "Luke_Cage_Season_1_Disc_3"
+        source_name: "Luke_Cage_Season_1_Disc_3_t03.mkv"
+      "09":
+        title: "DWYCK"
+        source_dir: "Luke_Cage_Season_1_Disc_3"
+        source_name: "Luke_Cage_Season_1_Disc_3_t02.mkv"
+      "10":
+        title: "Take It Personal"
+        source_dir: "Luke_Cage_Season_1_Disc_3"
+        source_name: "Luke_Cage_Season_1_Disc_3_t01.mkv"
+      "11":
+        title: "Now You-re Mine"
+        source_dir: "Luke_Cage_Season_1_Disc_4"
+        source_name: "Luke_Cage_Season_1_Disc_4_t04.mkv"
+      "12":
+        title: "Soliloquy of Chaos"
+        source_dir: "Luke_Cage_Season_1_Disc_4"
+        source_name: "Luke_Cage_Season_1_Disc_4_t02.mkv"
+      "13":
+        title: "You Know My Steez"
+        source_dir: "Luke_Cage_Season_1_Disc_4"
+        source_name: "Luke_Cage_Season_1_Disc_4_t01.mkv"
   Numb3rs:
     "01":
       "01":
