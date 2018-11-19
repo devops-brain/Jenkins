@@ -11,18 +11,18 @@ Movies:
         edition: "DVD"
         source_dir: "A_MILLION_WAYS_TO_DIE_IN_THE_WES"
         source_name: "title06.mkv"
-  "TODO":
-    "Feature":
-      "DVD":
-        edition: "DVD"
-        source_dir: "TODO"
-        source_name: "TODO"
   "An American in Paris (1951)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "AN_AMERICAN_IN_PARIS_DISC1"
         source_name: "AN_AMERICAN_IN_PARIS_DISC1_t00.mkv"
+  "An American Tail- Fievel Goes West (1991)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "An American Tail_ Fievel Goes West.mp4"
   "Annie (1982)":
     "Feature":
       "30th_Anniversary_BD":
@@ -88,6 +88,12 @@ Movies:
         type: "deleted"
         source_dir: "Back_to_the_Future_Bonus_Disc"
         source_name: "Back_to_the_Future_Bonus_Disc_t00.mkv"
+  "Battle of Britain- The Real Story (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Battle of Britain_ The Real Story.mp4"
   "Batman Begins (2005)":
     "Feature":
       "DVD":
@@ -112,6 +118,12 @@ Movies:
         edition: "DVD"
         source_dir: "BLAZING_SADDLES"
         source_name: "BLAZING_SADDLES_t00.mkv"
+  "Bleach (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bleach.mp4"
   "Blue Collar Comedy Tour- One for the Road (2006)":
     "Feature":
       "DVD":
@@ -160,6 +172,12 @@ Movies:
         edition: "BD"
         source_dir: "Captain_Underpants_The_First_Epic_Movie"
         source_name: "Captain_Underpants_The_First_Epic_Movie_t00.mkv"
+  "Catwoman (2004)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Catwoman.mp4"
   "Constantine (2005)":
     "Feature":
       "DVD Fullscreen":
@@ -184,6 +202,12 @@ Movies:
         edition: "BD"
         source_dir: "Clear_and_Present_Danger"
         source_name: "Clear_and_Present_Danger_t00.mkv"
+  "TODO":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "TODO"
   "Deadpool (2016)":
     "Feature":
       "BD":
@@ -212,12 +236,24 @@ Movies:
         edition: "DVD"
         source_dir: "DESPICABLE_ME_2"
         source_name: "title01.mkv"
+  "Despicable Me 3 (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Despicable Me 3.mp4"
   "Dodgeball- A True Underdog Story (2004)":
     "Feature":
       "UNRATED_BD":
         edition: "UNRATED_BD"
         source_dir: "DODGEBALL_UNRATED"
         source_name: "DODGEBALL_UNRATED_t00.mkv"
+  "Doom (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Doom.mp4"
   "Double Jeopardy (1999)":
     "Feature":
       "DVD":
@@ -360,6 +396,18 @@ Movies:
         edition: "DVD"
         source_dir: "FROZEN"
         source_name: "title00.mkv"
+  "Ghostbusters (1984)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Ghostbusters.mp4"
+  "Ghostbusters II (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Ghostbusters 2.mp4"
   "Good Morning- Vietnam (1987)":
     "Feature":
       "BD":
@@ -533,6 +581,12 @@ Movies:
         edition: "DVD"
         source_dir: "KISGRL69"
         source_name: "title00.mkv"
+  "Lara Croft- Tomb Raider (2001)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lara Croft_ Tomb Raider.mp4"
   "Lethal Weapon (1987)":
     "Feature":
       "BD":
@@ -616,6 +670,12 @@ Movies:
         edition: "DVD"
         source_dir: "LORD_OF_WAR"
         source_name: "title00.mkv"
+  "Lost in Space (1998)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lost in Space.mp4"
   "Mars Attacks! (1996)":
     "Feature":
       "BD":
@@ -992,6 +1052,12 @@ Movies:
         type: "deleted"
         source_dir: "LSE0NNS1"
         source_name: "title00.mkv"
+  "The Golden Compass (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Golden Compass.mp4"
   "The Great Debaters (2007)":
     "Feature":
       "DVD":
@@ -1172,6 +1238,12 @@ Movies:
         edition: "DVD"
         source_dir: "MUSIC_MAN_16X9LB_DUAL_LAYER"
         source_name: "title00.mkv"
+  "The NeverEnding Story (1984)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The NeverEnding Story.mp4"
   "The Orphanage (2007)":
     "Feature":
       "DVD":
@@ -1360,3 +1432,9 @@ Template:
         type: "TODO"
         source_dir: "TODO"
         source_name: "title00.mkv"
+  "TODO":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "TODO"
