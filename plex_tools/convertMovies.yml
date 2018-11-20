@@ -112,6 +112,12 @@ Movies:
         edition: "BD"
         source_dir: "Beauty_And_The_Beast_(Live_Action)"
         source_name: "Beauty_And_The_Beast_(Live_Action)_t00.mkv"
+  "Black Panther (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Black Panther.mp4"
   "Blazing Saddles (1974)":
     "Feature":
       "DVD":
@@ -142,6 +148,12 @@ Movies:
         edition: "DVD"
         source_dir: "BRIDESMAIDS"
         source_name: "title00.mkv"
+  "Brother Bear 2 (2006)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Brother Bear 2.mp4"
   "Bruce Almighty (2003)":
     "Feature":
       "DVD":
@@ -178,6 +190,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Catwoman.mp4"
+  "Coco (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Coco.mp4"
   "Constantine (2005)":
     "Feature":
       "DVD Fullscreen":
@@ -438,6 +456,12 @@ Movies:
         edition: "BD"
         source_dir: "Good_Morning_Vietnam"
         source_name: "Good_Morning_Vietnam_t01.mkv"
+  "Guardians of the Galaxy Vol- 2 (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Guardians of the Galaxy Vol. 2.mp4"
   "Hairspray (1988)":
     "Feature":
       "DVD":
@@ -498,6 +522,12 @@ Movies:
         edition: "BD_set"
         source_dir: "Harry_Potter_and_the_Deathly_Hallows_Part_2"
         source_name: "Harry_Potter_and_the_Deathly_Hallows_Part_2_t00.mkv"
+  "Hercules (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Hercules.mp4"
   "High Crimes (2002)":
     "Feature":
       "DVD":
@@ -605,6 +635,12 @@ Movies:
         edition: "DVD"
         source_dir: "KISGRL69"
         source_name: "title00.mkv"
+  "Kung Fu Panda (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Kung Fu Panda.mp4"
   "Lara Croft- Tomb Raider (2001)":
     "Feature":
       "PlayOn":
@@ -688,6 +724,12 @@ Movies:
         edition: "DVD"
         source_dir: "LITTLE_SHOP_OF_HORRORS"
         source_name: "title00.mkv"
+  "Live and Let Die (1973)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Live and Let Die.mp4"
   "Lord of War (2005)":
     "Feature":
       "DVD":
@@ -746,6 +788,12 @@ Movies:
         type: "deleted"
         source_dir: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)"
         source_name: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)_t00.mkv"
+  "Mulan (1998)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Mulan.mp4"
   "Nick and Norah's Infinite Playlist (2008)":
     "Feature":
       "DVD":
@@ -1077,6 +1125,12 @@ Movies:
         type: "deleted"
         source_dir: "BOONDOCK_SAINTS_D2"
         source_name: "title00.mkv"
+  "The Boss Baby (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Boss Baby.mp4"
   "The Broadway Melody (1929)":
     "Feature":
       "DVD":
@@ -1094,6 +1148,12 @@ Movies:
         type: "deleted"
         source_dir: "LSE0NNS1"
         source_name: "title00.mkv"
+  "The Emperor-s New Groove (2000)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Emperor's New Groove.mp4"
   "The Golden Compass (2007)":
     "Feature":
       "PlayOn":
@@ -1268,6 +1328,12 @@ Movies:
         edition: "TheatricalBD"
         source_dir: "THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING"
         source_name: "THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_t00.mkv"
+  "The Man with the Golden Gun (1974)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Man With the Golden Gun.mp4"
   "The Medallion (2003)":
     "Feature":
       "DVD":
