@@ -11,6 +11,18 @@ Movies:
         edition: "DVD"
         source_dir: "A_MILLION_WAYS_TO_DIE_IN_THE_WES"
         source_name: "title06.mkv"
+  "A View to a Kill (1985)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "A View to a Kill.mp4"
+  "Adam Sandler- 100- Fresh (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "ADAM SANDLER 100% FRESH.mp4"
   "An American in Paris (1951)":
     "Feature":
       "DVD":
@@ -112,6 +124,12 @@ Movies:
         edition: "BD"
         source_dir: "Beauty_And_The_Beast_(Live_Action)"
         source_name: "Beauty_And_The_Beast_(Live_Action)_t00.mkv"
+  "Becoming Bond (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Becoming Bond.mp4"
   "Black Panther (2018)":
     "Feature":
       "PlayOn":
@@ -136,6 +154,12 @@ Movies:
         edition: "DVD"
         source_dir: "BLUE_COLLAR_COMEDY_TOUR_3_FS_US"
         source_name: "title00.mkv"
+  "Bolt (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bolt.mp4"
   "Brave (2012)":
     "Feature":
       "DVD":
@@ -563,12 +587,24 @@ Movies:
         type: "trailer"
         source_dir: "HIGH_CRIMES"
         source_name: "title07.mkv"
+  "Hiroshima (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Hiroshima_ BBC History of World War II.mp4"
   "Hitch (2005)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "Hancock_Hitch"
         source_name: "Hancock_Hitch_t01.mkv"
+  "Hitler-s Steel Beast (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Hitler's Steel Beast.mp4"
   "Hollywood Homicide (2003)":
     "Feature":
       "DVD":
@@ -617,12 +653,30 @@ Movies:
         edition: "DVD"
         source_dir: "INDIANA_JONES_4_AC"
         source_name: "title00.mkv"
+  "Jeff Dunham- Relative Disaster (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Jeff Dunham_ Relative Disaster.mp4"
   "Jeff Dunham- Spark of Insanity (2007)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "Jeff_Dunham_Spark_of_Insanity"
         source_name: "Jeff_Dunham_Spark_of_Insanity_t00.mkv"
+  "Jeff Foxworthy - Larry the Cable Guy- We've Been Thinking (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Jeff Foxworthy and Larry the Cable Guy_ We’ve Been Thinking....mp4"
+  "Kick-Ass (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Kick-Ass.mp4"
   "Kill Bill- Vol. 1 (2003)":
     "Feature":
       "DVD":
@@ -641,6 +695,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Kung Fu Panda.mp4"
+  "Latin History for Morons- John Leguizamo-s Road to Broadway (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "John Leguizamo's Latin History for Morons.mp4"
   "Lara Croft- Tomb Raider (2001)":
     "Feature":
       "PlayOn":
@@ -718,6 +778,24 @@ Movies:
         type: "interview"
         source_dir: "LES_MISERABLES_DISC_2"
         source_name: "title01.mkv"
+  "Licence to Kill (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "License to Kill.mp4"
+  "Lilo - Stitch (2002)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lilo & Stitch.mp4"
+  "Lilo - Stitch 2- Stitch Has a Glitch (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lilo & Stitch 2_ Stitch Has A Glitch.mp4"
   "Little Shop of Horrors (1986)":
     "Feature":
       "DVD":
@@ -794,6 +872,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Mulan.mp4"
+  "Never Say Never Again (1983)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Never Say Never Again.mp4"
   "Nick and Norah's Infinite Playlist (2008)":
     "Feature":
       "DVD":
@@ -806,6 +890,12 @@ Movies:
         edition: "DVD"
         source_dir: "DIME_NTSC"
         source_name: "title00.mkv"
+  "Octopussy (1983)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Octopussy.mp4"
   "Outlaw King (2018)":
     "Feature":
       "PlayOn":
@@ -1154,6 +1244,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "The Emperor's New Groove.mp4"
+  "The First World War from Above (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The First World War From Above.mp4"
   "The Golden Compass (2007)":
     "Feature":
       "PlayOn":
@@ -1172,6 +1268,12 @@ Movies:
         edition: "DVD"
         source_dir: "THE_GREAT_ZIEGFELD"
         source_name: "THE_GREAT_ZIEGFELD_t00.mkv"
+  "The Hitchhiker-s Guide to the Galaxy (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Hitchhiker's Guide to the Galaxy.mp4"
   "The Hobbit- An Unexpected Journey (2012)":
     "Feature":
       "BD":
@@ -1429,6 +1531,12 @@ Movies:
         edition: "DVD"
         source_dir: "WIZARD_OF_OZ_70TH_ANNIVERSARY"
         source_name: "title00.mkv"
+  "Thunderball (1965)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Thunderball.mp4"
   "TMNT (2007)":
     "Feature":
       "DVD":
