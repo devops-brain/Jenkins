@@ -9,7 +9,7 @@ USER root
 #  apt -y upgrade && \
 RUN \
   apt update && \
-  apt -y install python3 python3-pip && \
+  apt -y install rsync python3 python3-pip && \
   pip3 install pyyaml
 
 # Mountable Directories
