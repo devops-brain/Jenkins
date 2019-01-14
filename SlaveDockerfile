@@ -1,7 +1,7 @@
 # Place in docker container, use jenkins, or jenkins controlled docker container...
 
 # Base image
-FROM jenkins/jnlp-slave:lts
+FROM jenkins/jnlp-slave
 # Going god-mode
 USER root
 
