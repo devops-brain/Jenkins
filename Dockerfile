@@ -11,6 +11,9 @@ RUN \
   apt -y install python3 python3-pip && \
   pip3 install pyyaml
 
+RUN \
+  snap -y install terraform
+
 # Mountable Directories
 VOLUME ["/var/jenkins_home", "/srv/masters", "/srv/plex"]
 
