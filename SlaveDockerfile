@@ -5,6 +5,18 @@ FROM jenkins/jnlp-slave
 # Going god-mode
 USER root
 
+# basic apt in docker hygiene
+ENV DEBIAN_FRONTEND=noninteractive
+RUN echo "APT::Get::Assume-Yes \"true\";" > /etc/apt/apt.conf.d/90assumeyes
+
+# install juju for IaaS
+RUN \
+  apt update && \
+  apt -y install software-properties-common && \
+  add-apt-repository ppa:juju/stable && \
+  apt update && \
+  apt -y install juju
+
 # Python 3 w/ PyYaml
 RUN \
   apt update && \
