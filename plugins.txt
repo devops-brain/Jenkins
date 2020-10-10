@@ -1,0 +1,9 @@
+configuration-as-code
+ansible
+azure-keyvault
+github-pullrequest
+github-oauth
+github
+github-branch-source
+kubernetes
+lockable-resources
