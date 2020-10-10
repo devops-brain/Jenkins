@@ -7,6 +7,10 @@ FROM jenkins/jenkins:lts-jdk11
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
 
+# applying configuration as code
+#COPY jenkins.yaml /var/jenkins_home/jenkins.yaml
+# this should be personalized per instance.
+
 # Going god-mode
 USER root
 
@@ -17,7 +21,7 @@ RUN \
   pip3 install pyyaml
 
 # Mountable Directories
-#VOLUME ["/var/jenkins_home", "/srv/masters", "/srv/plex"]
+VOLUME ["/var/jenkins_home"]
 
 # drop back to the regular jenkins user - good practice
 USER jenkins
