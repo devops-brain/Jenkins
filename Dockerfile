@@ -2,7 +2,7 @@
 
 # Base image
 #FROM jenkins/jenkins:lts-jdk11
-FROM jenkins/jenkins:latest
+FROM jenkins/jenkins:lts
 
 # installing jenkins coniguration as code
 #COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
@@ -22,7 +22,7 @@ RUN \
   pip3 install pyyaml
 
 # Mountable Directories
-VOLUME ["/var/jenkins_home"]
+VOLUME ["/var/jenkins_home", "/srv/masters", "/srv/plex"]
 
 # drop back to the regular jenkins user - good practice
 USER jenkins
