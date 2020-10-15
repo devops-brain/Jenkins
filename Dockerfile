@@ -5,7 +5,7 @@ FROM jenkins/jenkins:lts-jdk11
 
 # installing jenkins coniguration as code
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
-RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
+#RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
 
 # applying configuration as code
 #COPY jenkins.yaml /var/jenkins_home/jenkins.yaml
