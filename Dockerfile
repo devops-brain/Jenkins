@@ -1,16 +1,16 @@
 # Place in docker container, use jenkins, or jenkins controlled docker container...
 
 # Base image
-#FROM jenkins/jenkins:lts-jdk11
-FROM jenkins/jenkins:lts
+FROM jenkins/jenkins:lts-jdk11
+#FROM jenkins/jenkins:lts
 
 # installing jenkins coniguration as code
-#COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
-#RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
+COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
+RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
 
 # applying configuration as code
 #COPY jenkins.yaml /var/jenkins_home/jenkins.yaml
-# this should be personalized per instance.
+# this should be personalized per instance, via helm or somesuch
 
 # Going god-mode
 USER root
