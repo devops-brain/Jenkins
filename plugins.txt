@@ -1,9 +1,5 @@
 configuration-as-code
 ansible
 azure-keyvault
-github-pullrequest
-github
-github-branch-source
 kubernetes
-lockable-resources
 saml
