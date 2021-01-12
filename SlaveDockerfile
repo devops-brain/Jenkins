@@ -11,7 +11,7 @@ RUN echo "APT::Get::Assume-Yes \"true\";" > /etc/apt/apt.conf.d/90assumeyes && \
   apt update && \
   apt -y install \
     software-properties-common \
-    sudo \
+    nfs-common \
   # && add-apt-repository ppa:juju/stable \
   && apt update && \
   apt -y install \
