@@ -11,12 +11,12 @@ RUN echo "APT::Get::Assume-Yes \"true\";" > /etc/apt/apt.conf.d/90assumeyes && \
   apt update && \
   apt -y install \
     software-properties-common \
-    nfs-common \
   # && add-apt-repository ppa:juju/stable \
   && apt update && \
   apt -y install \
     #juju \
     python3 python3-pip \
+    rsync \
   && apt -y autoremove && \
   apt clean
 
