@@ -25,7 +25,7 @@ RUN \
   pip3 install pyyaml
 
 # Mountable Directories
-VOLUME ["/srv/masters", "/srv/plex"]
+VOLUME ["/srv/backups"]
 
 # drop back to the regular jenkins user - good practice
 USER jenkins
