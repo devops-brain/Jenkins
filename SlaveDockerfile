@@ -14,7 +14,7 @@ RUN echo "APT::Get::Assume-Yes \"true\";" > /etc/apt/apt.conf.d/90assumeyes && \
   # && add-apt-repository ppa:juju/stable \
   && apt update && \
   apt -y install \
-    helm \
+    #helm \
     #juju \
     python3 python3-pip \
     rsync \
