@@ -14,7 +14,7 @@ pipeline {
     stage('upgrade or install jenkins'){
       steps {
         echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-        sh "helm upgrade -i -n jenkins --create-namespace --atomic -f jenkins/values.yaml jenkins jenkins/jenkins"
+        sh "helm upgrade -i -n jenkins --create-namespace --atomic -f values.yaml jenkins jenkins/jenkins"
       }
     }
   }
