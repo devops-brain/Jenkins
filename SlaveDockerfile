@@ -1,7 +1,7 @@
 # Place in docker container, use jenkins, or jenkins controlled docker container...
 
 # Base image
-FROM jenkins/inbound-agent:latest-jdk11
+FROM jenkins/inbound-agent:latest-jdk17
 # Going god-mode
 USER root
 
