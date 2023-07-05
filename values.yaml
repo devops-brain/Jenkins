@@ -175,10 +175,10 @@ agent:
 
 persistence:
   enabled: true
-  storageClass: ceph-block
+  storageClass: microk8s-hostpath
   annotations: {}
   accessMode: "ReadWriteOnce"
-  size: "8Gi"
+  size: "64Gi"
   volumes:
   #  - name: nothing
   #    emptyDir: {}

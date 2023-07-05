@@ -1,7 +1,7 @@
 # Place in docker container, use jenkins, or jenkins controlled docker container...
 
 # Base image
-FROM jenkins/jenkins:lts-jdk11
+FROM jenkins/jenkins:lts-jdk17
 #FROM jenkins/jenkins:lts
 
 # installing jenkins coniguration as code
